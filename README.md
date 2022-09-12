@@ -1,4 +1,4 @@
-# Proyecto sesion30082022 + cambios sesion01092022
+# Proyecto ArrayList (Producto)
 
 Metodología y Programación Orientada a Objetos
 
